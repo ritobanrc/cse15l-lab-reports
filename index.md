@@ -1,6 +1,8 @@
 # Ritoban's CSE 15L Lab Reports
 
-## Week 1
+1. [Week 1 Lab Report](week1.md)
+
+## Demo-ing Markdown Syntax
 
 Hello world!
 
@@ -20,3 +22,5 @@ int main() {
   printf("hello");
 }
 ```
+
+
