@@ -41,9 +41,9 @@ ls
 
 Here's the output from those commands (long outputs have been truncated for space).
 
-![outputs of ls commands](image/ls.png)
-![output of cat-ing the readme](image/readme.png)
-![output of ls in /usr/inclue](image/include.png)
+![outputs of ls commands](images/ls.png)
+![output of cat-ing the readme](images/readme.png)
+![output of ls in /usr/inclue](images/include.png)
 
 As you can see, poking around a Linux system can be very fruitful -- have fun with it!
 
