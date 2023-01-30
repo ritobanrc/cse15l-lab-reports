@@ -1,7 +1,7 @@
 # Ritoban's CSE 15L Lab Reports
 
 1. [Week 1 Lab Report](week1.md)
-1. [Week 1 Lab Report](week2.md)
+1. [Week 2 Lab Report](week2.md)
 
 ## Demo-ing Markdown Syntax
 
