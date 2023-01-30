@@ -1,3 +1,5 @@
+# Week 2 Lab Report
+
 # Part 1
 Consider the following simple web server:
 ```java
